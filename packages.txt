@@ -1,24 +1,8 @@
-certifi
-chardet
-charset-normalizer
-click
-googletrans
-gTTS
-h11
-h2
-hpack
-hstspreload
-httpcore
-httpx
-hyperframe
-idna
-numpy
-opencv-python
-Pillow
-playsound
-pytesseract
-requests
-rfc3986
-six
-sniffio
-urllib3
+sudo apt install tesseract-ocr
+sudo apt install libtesseract-dev
+pip3 install pytesseract
+pip3 install SpeechRecognition
+sudo apt install portaudio19-dev 
+pip3 install pyaudio
+pip3 install pyttsx3
+pip3 install gtts
